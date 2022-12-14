@@ -32,8 +32,7 @@ The t-test for all lots returned a p-value of 0.06, which is larger than our alp
 
 ![lot1 t-test](deliv_3_lot1.png)
 
-The t-test performed only on cars in lot 1 returned a p-value of 1.57e-11, which is < than our alpha of 0.05 and it can be concluded that there is a significant difference in the PSI of lot 1 versus the population.
-
+The t-test performed only on cars in lot 1 returned a p-value of 1.57e-11, which is \< than our alpha of 0.05 and it can be concluded that there is a significant difference in the PSI of lot 1 versus the population.
 
 ![lot2 t-test](deliv_3_lot2.png)
 
@@ -42,3 +41,10 @@ The t-test for lot2 resulted in a p-value of 0.0006, meaning we can conclude the
 ![lot3 t-test](deliv_3_lot3.png)
 
 The t-test for lot2 resulted in a p-value of 0.159, meaning we cannot conclude there is a statistically significant difference in PSI in lot 2 when compared to the population.
+
+## Study Design: MechaCar vs Competition
+
+Further studies on the performance of MechaCar vs competition could be performed on a variety of important factors. Price point, fuel efficiency, safety, and maintenance cost are all legitimate metrics that should be looked into.
+
+-   I would personally like to test for how the fuel efficiency of the MechaCar compares to comparably priced and sized cars on the market.
+-   The null hypothesis ($$H_{0}$$)
