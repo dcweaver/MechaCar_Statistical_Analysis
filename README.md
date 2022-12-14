@@ -31,11 +31,14 @@ T-tests were performed on the data to determine if the PSI of the sample suspens
 The t-test for all lots returned a p-value of 0.06, which is larger than our alpha of 0.05, meaning there is no statistically significant difference in the PSI of all coils from the population mean of 1500.
 
 ![lot1 t-test](deliv_3_lot1.png)
+
 The t-test performed only on cars in lot 1 returned a p-value of 1.57e-11, which is < than our alpha of 0.05 and it can be concluded that there is a significant difference in the PSI of lot 1 versus the population.
 
 
 ![lot2 t-test](deliv_3_lot2.png)
+
 The t-test for lot2 resulted in a p-value of 0.0006, meaning we can conclude there is a statistically significant difference in PSI in lot 2 when compared to the population.
 
 ![lot3 t-test](deliv_3_lot3.png)
+
 The t-test for lot2 resulted in a p-value of 0.159, meaning we cannot conclude there is a statistically significant difference in PSI in lot 2 when compared to the population.
